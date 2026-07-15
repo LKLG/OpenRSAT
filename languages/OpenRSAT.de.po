@@ -1,0 +1,138 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tvisabout.caption
+msgctxt "tvisabout.caption"
+msgid "About"
+msgstr "Über"
+
+#: tvisabout.label_description.caption
+msgid "OpenRSAT is an open-source, cross-platform tool for Active Directory administration via an interface, inspired by Microsoft’s RSAT tools. It enables system administrators to manage users, groups, and organizational units on Windows, Linux, and macOS. "
+msgstr "OpenRSAT ist ein Open-Source-Tool für die plattformübergreifende Active Directory-Verwaltung über eine Oberfläche, inspiriert von Microsofts RSAT-Tools. Es ermöglicht Systemadministratoren, Benutzer, Gruppen und organisatorische Einheiten unter Windows, Linux und macOS zu verwalten."
+
+#: tvisabout.label_discord.caption
+msgid "Click to join Tranquil IT discord."
+msgstr "Klicken Sie, um dem Tranquil IT Discord beizutreten."
+
+#: tvisabout.label_documentation.caption
+msgid "Click to open Documentation page. (Not yet implemented)"
+msgstr "Klicken Sie, um die Dokumentationsseite zu öffnen. (Noch nicht implementiert)"
+
+#: tvisabout.label_github.caption
+msgid "Click to open OpenRSAT github page."
+msgstr "Klicken Sie, um die OpenRSAT-GitHub-Seite zu öffnen."
+
+#: tvisabout.label_githubissue.caption
+msgid "You found a bug or want to give feedback? Click to open an issue on github!"
+msgstr "Sie haben einen Fehler gefunden oder möchten Feedback geben? Klicken Sie, um ein Issue auf GitHub zu erstellen!"
+
+#: tvisabout.label_tranquilit.caption
+msgid "Click to open Tranquil IT home page."
+msgstr "Klicken Sie, um die Tranquil IT-Startseite zu öffnen."
+
+#: tvisabout.label_waptpackage.caption
+msgid "Click to open OpenRSAT WAPT package."
+msgstr "Klicken Sie, um das OpenRSAT-WAPT-Paket zu öffnen."
+
+#: tvisopenrsat.action_about.caption
+msgctxt "tvisopenrsat.action_about.caption"
+msgid "About"
+msgstr "Über"
+
+#: tvisopenrsat.action_advancedfeatures.caption
+msgid "Advanced Features"
+msgstr "Erweiterte Funktionen"
+
+#: tvisopenrsat.action_ldapconnect.caption
+msgid "Connect"
+msgstr "Verbinden"
+
+#: tvisopenrsat.action_ldapdisconnect.caption
+msgid "Disconnect"
+msgstr "Trennen"
+
+#: tvisopenrsat.action_ldapoptions.caption
+msgid "Connection Options"
+msgstr "Verbindungsoptionen"
+
+#: tvisopenrsat.action_newwindow.caption
+msgid "Action_NewWindow"
+msgstr "Neues Fenster"
+
+#: tvisopenrsat.action_openedproperties.caption
+msgctxt "tvisopenrsat.action_openedproperties.caption"
+msgid "Properties"
+msgstr "Eigenschaften"
+
+#: tvisopenrsat.action_properties.caption
+#, fuzzy
+msgctxt "tvisopenrsat.action_properties.caption"
+msgid "Properties"
+msgstr "Eigenschaften"
+
+#: tvisopenrsat.action_quit.caption
+msgctxt "tvisopenrsat.action_quit.caption"
+msgid "Quit"
+msgstr "Beenden"
+
+#: tvisopenrsat.action_settings.caption
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: tvisopenrsat.action_showgpo.caption
+msgid "Show GPO"
+msgstr "Gruppenrichtlinien anzeigen"
+
+#: tvisopenrsat.caption
+msgctxt "tvisopenrsat.caption"
+msgid "OpenRSAT"
+msgstr "OpenRSAT"
+
+#: tvisopenrsat.menuitem3.caption
+msgctxt "tvisopenrsat.menuitem3.caption"
+msgid "Change tool"
+msgstr "Werkzeug wechseln"
+
+#: tvisopenrsat.menuitem_debug.caption
+msgctxt "tvisopenrsat.menuitem_debug.caption"
+msgid "Debug options"
+msgstr "Debug-Optionen"
+
+#: tvisopenrsat.menuitem_file.caption
+msgctxt "tvisopenrsat.menuitem_file.caption"
+msgid "File"
+msgstr "Datei"
+
+#: tvisopenrsat.menuitem_help.caption
+msgctxt "tvisopenrsat.menuitem_help.caption"
+msgid "?"
+msgstr "?"
+
+#: tvisopenrsat.menuitem_retrieveoldconfiguration.caption
+msgid "Retrieve old configuration"
+msgstr "Alte Konfiguration abrufen"
+
+#: tvisopenrsat.menuitem_view.caption
+msgctxt "tvisopenrsat.menuitem_view.caption"
+msgid "View"
+msgstr "Ansicht"
+
+#: tvisopenrsat.menuitem_viewtheme.caption
+msgctxt "tvisopenrsat.menuitem_viewtheme.caption"
+msgid "Theme"
+msgstr "Design"
+
+#: tvisopenrsat.menuitem_viewthemedark.caption
+msgctxt "tvisopenrsat.menuitem_viewthemedark.caption"
+msgid "Use dark theme (at next launch)"
+msgstr "Dunkles Design verwenden (ab nächstem Start)"
+
+#: tvisopenrsat.menuitem_viewthemelight.caption
+msgctxt "tvisopenrsat.menuitem_viewthemelight.caption"
+msgid "Use light theme (at next launch)"
+msgstr "Helles Design verwenden (ab nächstem Start)"
+
+#: tvisopenrsat.menuitem_viewthemesystem.caption
+msgctxt "tvisopenrsat.menuitem_viewthemesystem.caption"
+msgid "Use system theme (at next launch)"
+msgstr "Systemdesign verwenden (ab nächstem Start)"
